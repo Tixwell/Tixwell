@@ -6,31 +6,45 @@
 - 🤝 I’m studying at [Epitech Paris](https://www.epitech.eu/)
 
 ---
-## 🔭 Previous project
+## 🔭 Previous project -  <a href="https://www.kaesario.com/" target="_blank" rel="noopener noreferrer">Portfolio</a> 
 <ul>
+  <li>
+    <p></p>
+    <img width="250" align='right' alt="fractif website" src="https://user-images.githubusercontent.com/19282069/206268371-300edf6e-7d32-49fd-af64-920f71996e91.png">
+    <h3><b>Fractif</b></h3>
+    <a href="https://github.com/Fractif/fractif" target="_blank" rel="noopener noreferrer">Open Source project</a>
+    <p>Fractif is a web app that let you invest in physical luxury assets through ERC1155 tokens.</p>
+    <ul>
+      <li>Leveraged the ERC1155 token standard to develop smart contracts that facilitate investment in physical luxury assets in a secure and transparent manner on the blockchain.</li>
+    </ul>
+  </li>
+  
   <li>
     <p></p>
     <h3><b>Nft Bot</b></h3>
     <a href="" target="_blank" rel="noopener noreferrer"></a>
-    <p>Creation of a Nft bot that  automates the purchase of Nft on multiple blockchains (Solana / Ethereum) optimized to buy hundreds of thousands of nft.</p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>
+    <p>Created a platform for automating NFT (Non Fungible Token) purchases on the Solana and Ethereum blockchains.</p>
+    <ul>
+    <li>Using Rust for communication with smart-contracts and developing our back-end.</li>
+    <li>Reverse-engineering smart-contracts and sites using different web3 libraries.</li>
+    <li>Creation of a desktop application via Tauri-apps and its hybrid React/Rust interface.</li>
+    <li>Multi-threading for managing tens of thousands of concurrent tasks.</li>
+    <li>Creation and security of wallets (electronic wallets) an advanced encryption system.</li>
+    <li>Management of a Redis database allowing an efficient transfer of our data.</li>
+    </ul>
   </li>
+  
+  
   
   <li>
     <p></p>
     <h3><b>Paname.io</b></h3>
     <a href="https://paname.io" target="_blank" rel="noopener noreferrer">Website</a> • <a href="https://twitter.com/paname_io/" target="_blank" rel="noopener noreferrer">Twitter</a> • <a href="https://github.com/azerpas/paname-sneakers-bot" target="_blank" rel="noopener noreferrer">Open Source project</a>
     <p>Creation of a cloud platform where users can subscribe to limited edition sneakers. Our bots will then register them to different draws set-up by Nike and their retailers.</p>
-    <img src="https://skills.thijs.gg/icons?i=nextjs&theme=light" width="40" height="40">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
-        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-    
+    <ul>
+      <li>Reverse-engineering of the sites/applications and their respective web firewalls (WAF).</li>
+      <li>Replaced the previous stack (Symfony 5 Async) with a Kubernetes, NextJS and Docker stack, leveraging the power of Google Cloud Platform.</li>
+    </ul>
   </li>
 
   <li>
@@ -38,12 +52,10 @@
     <h3><b>Ruby AIO</b></h3>
     <a href="https://ruby-aio.com" target="_blank" rel="noopener noreferrer">Website</a> 
     <p>Creation of an AIO bot (software) that automates the purchase of limited edition sneakers. Our bot allow user to buy tons of sneakers in few seconds.</p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40">
-    <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
- <img src="https://skills.thijs.gg/icons?i=go&theme=light" width="40" height="40">
-  <img src="https://skills.thijs.gg/icons?i=py&theme=light" width="40" height="40">
+    <ul>
+      <li> Reverse-engineered the sites/applications and their respective web firewalls (WAF).</li>
+      <li> Having a graphical application in React Electron communicating with a websocket located on a server managed via docker.</li>
+    </ul>
   </li>
 </ul> 
 
